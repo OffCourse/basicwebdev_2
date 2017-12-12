@@ -5,7 +5,7 @@ checkpoints:
   - task: Use Flexbox Instead
     resource-url: 'https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes/'
   - task: See It in Action
-    resource-url: 'https://egghead.io/lessons/misc-flexbox-fundamentals/'
+    resource-url: 'https://www.youtube.com/watch?v=JJSoEo8JSnc'
   - task: Get an Overview
     resource-url: 'https://css-tricks.com/snippets/css/a-guide-to-flexbox/'
   - task: Design a Complex Layout

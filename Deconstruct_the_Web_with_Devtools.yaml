@@ -1,8 +1,12 @@
 goal: Deconstruct the Web with Devtools
 checkpoints:
+  - task: What is Devtools?
+    resource-url: 'https://developers.google.com/web/tools/chrome-devtools/'
   - task: Change the Script
     resource-url: 'http://discover-devtools.codeschool.com/chapters/1/'
   - task: Flip the Styles
     resource-url: 'https://www.youtube.com/watch?v=Z3HGJsNLQ1E/'
   - task: Fake Mobile
     resource-url: 'https://www.sitepoint.com/use-mobile-emulation-mode-chrome/'
+  - task: More tricks
+    resource-url: 'https://www.keycdn.com/blog/chrome-devtools/'
